@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=GestionPersonas
+comment0.text=ABM\ para\ Personas
+comment1.params=tipoPersona
+comment1.target=void\ guardarPersonas(java.lang.String)
+comment2.params=tipoPersona\ personas
+comment2.target=boolean\ actualizarArchivo(java.lang.String,\ java.util.HashSet)
+comment3.params=
+comment3.target=void\ cargarDatosEnRAM()
+comment4.params=tipoPersona
+comment4.target=void\ cargarPersonas(java.lang.String)
+comment5.params=persona
+comment5.target=boolean\ agregarPersona(Persona)
+comment6.params=personaModificado
+comment6.target=boolean\ actualizarPersona(Persona)
+comment7.params=persona
+comment7.target=boolean\ eliminarPersona(Persona)
+comment8.params=persona\ personas\ tipoPersona
+comment8.target=boolean\ eliminarArchivo(Persona,\ java.util.HashSet,\ java.lang.String)
+comment9.params=tipoPersona
+comment9.target=java.util.HashSet\ listarPersonas(java.lang.String)
+numComments=10

@@ -1,0 +1,5 @@
+101,Pérez,Carlos,MASCULINO,45,8
+203,López,Ana,FEMENINO,34,6
+305,González,José,MASCULINO,25,12
+407,Fernández,Laura,FEMENINO,29,4
+509,Ramírez,Marcos,MASCULINO,38,8

@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=GestionTurnos
+comment0.text=ABM\ para\ animales
+comment1.params=
+comment1.target=void\ guardarTurnos()
+comment2.params=turnos
+comment2.target=boolean\ actualizarArchivo(java.util.HashSet)
+comment3.params=
+comment3.target=void\ cargarDatosEnRAM()
+comment4.params=
+comment4.target=void\ cargarTurnos()
+comment5.params=turno
+comment5.target=boolean\ agregarTurno(TurnoBean)
+comment6.params=turno
+comment6.target=boolean\ eliminarTurno(TurnoBean)
+comment7.params=turno\ turnos
+comment7.target=boolean\ eliminarArchivo(TurnoBean,\ java.util.HashSet)
+comment8.params=
+comment8.target=java.util.HashSet\ listarTurnos()
+numComments=9

@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=TipoAnimalFrame
+comment0.text=Interfaz\ grafica\ para\ manejar\ los\ tipos\ de\ animales\ que\ pueden\ ser\ atendidos\ en\ la\ veterinaria
+comment1.params=accion
+comment1.target=TipoAnimalFrame(java.lang.String)
+comment10.params=
+comment10.target=void\ regresarAlMenu()
+comment2.params=e
+comment2.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment3.params=e
+comment3.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment4.params=e
+comment4.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment5.params=e
+comment5.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment6.params=e
+comment6.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment7.params=
+comment7.target=void\ abrirFormularioPerro()
+comment8.params=
+comment8.target=void\ abrirFormularioGato()
+comment9.params=
+comment9.target=void\ abrirFormularioPajaro()
+numComments=11

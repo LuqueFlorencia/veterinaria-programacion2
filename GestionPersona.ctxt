@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=GestionPersona
+comment0.text=Metodos\ para\ gestionar\ a\ las\ personas\ en\ la\ Veterinaria
+comment1.params=persona
+comment1.target=boolean\ registrarPersona(Persona)
+comment2.params=
+comment2.target=java.util.HashSet\ listarPersonas()
+numComments=3

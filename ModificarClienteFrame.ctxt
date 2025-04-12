@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=ModificarClienteFrame
+comment0.text=Interfaz\ grafica\ para\ modificar\ un\ Veterinario
+comment1.params=cliente\ gestionPersonas\ listarClientesFrame
+comment1.target=ModificarClienteFrame(ClienteBean,\ GestionPersonas,\ Listar_Eliminar_ClientesFrame)
+comment2.params=
+comment2.target=void\ guardarCambios()
+comment3.params=
+comment3.target=void\ regresar()
+numComments=4

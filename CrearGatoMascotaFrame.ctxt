@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=CrearGatoMascotaFrame
+comment0.text=Interfaz\ grafica\ para\ crear\ el\ gato\ con\ Due\u00F1o/Mascota
+comment1.params=gestionAnimales
+comment1.target=CrearGatoMascotaFrame(GestionAnimales)
+comment2.params=e
+comment2.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment3.params=e
+comment3.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment4.params=
+comment4.target=void\ crearGatoMascota()
+comment5.params=
+comment5.target=void\ regresar()
+numComments=6

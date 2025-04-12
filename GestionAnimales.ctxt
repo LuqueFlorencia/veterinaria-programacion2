@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=GestionAnimales
+comment0.text=ABM\ para\ animales
+comment1.params=tipoAnimal
+comment1.target=void\ guardarAnimales(java.lang.String)
+comment2.params=tipoAnimal\ animales
+comment2.target=boolean\ actualizarArchivo(java.lang.String,\ java.util.HashSet)
+comment3.params=
+comment3.target=void\ cargarDatosEnRAM()
+comment4.params=tipoAnimal
+comment4.target=void\ cargarAnimales(java.lang.String)
+comment5.params=animal
+comment5.target=boolean\ agregarAnimal(Animal)
+comment6.params=animalModificado
+comment6.target=boolean\ actualizarAnimal(Animal)
+comment7.params=animal
+comment7.target=boolean\ eliminarAnimal(Animal)
+comment8.params=animal\ animales\ tipoAnimal
+comment8.target=boolean\ eliminarArchivo(Animal,\ java.util.HashSet,\ java.lang.String)
+comment9.params=tipoAnimal
+comment9.target=java.util.HashSet\ listarAnimales(java.lang.String)
+numComments=10

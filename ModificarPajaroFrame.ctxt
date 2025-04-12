@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=ModificarPajaroFrame
+comment0.text=Interfaz\ grafica\ para\ modificar\ un\ Pajaro
+comment1.params=pajaro\ gestionAnimales\ listarPajarosFrame
+comment1.target=ModificarPajaroFrame(PajaroBean,\ GestionAnimales,\ Listar_Eliminar_PajarosFrame)
+comment2.params=
+comment2.target=void\ guardarCambios()
+comment3.params=
+comment3.target=void\ regresar()
+numComments=4

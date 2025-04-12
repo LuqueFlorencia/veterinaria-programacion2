@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.target=MenuPrincipalFrame
+comment0.text=Interfaz\ gr\u00E1fica\ para\ el\ manejo\ de\ opciones\ generales\ de\ la\ Veterinaria.
+comment1.params=
+comment1.target=MenuPrincipalFrame()
+comment10.params=accion
+comment10.target=void\ abrirTipoAnimal(java.lang.String)
+comment11.params=accion
+comment11.target=void\ abrirTipoPersona(java.lang.String)
+comment2.params=e
+comment2.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment3.params=e
+comment3.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment4.params=e
+comment4.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment5.params=e
+comment5.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment6.params=e
+comment6.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment7.params=e
+comment7.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment8.params=e
+comment8.target=void\ actionPerformed(java.awt.event.ActionEvent)
+comment9.params=accion
+comment9.target=void\ abrirFormularioTurno(java.lang.String)
+numComments=12
